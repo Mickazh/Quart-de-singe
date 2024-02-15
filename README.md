@@ -4,7 +4,9 @@ Jeu du quart de singe en C++.
 Le jeu peut être jouer par des humains ou par des "robots"
 Pour compiler le projet :
 >cd .\src
+>
 > gcc *.cpp -o sae
+>
 > ./sae *Paramètres*
 
 Les paramètres sont H pour un humain et R pour un robot.
